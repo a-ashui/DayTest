@@ -1,3 +1,4 @@
+package dayTest20210510;
 
 import java.util.Scanner;
 /**
